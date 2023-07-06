@@ -27,6 +27,13 @@
 <li>XDebug</li>
 <li>
 </ul>
+<h2>COMPOSER</h2>
+<ul>
+<li>Autoload</li>
+<li>Queues</li>
+<li>Cache</li>
+<li>
+</ul>
 <h2>DESIGN PATTERNS</h2>
 <ul>
 <li>SOLID</li>
